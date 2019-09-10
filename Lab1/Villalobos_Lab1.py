@@ -4,7 +4,10 @@ Ismael Villalobos
 Lab Assignment 1
 Professor Fuentes
 TA-Dita Nath
-Purpose:
+Purpose:Your program should then use a recursive function, similar to
+the ones seen in class and described in the textbook, to find the anagrams. The anagrams should be displayed
+in alphabetical order and contain no duplicates. Your program should also display the time it took to find the
+anagrams
 '''
 
 import time
